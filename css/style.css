@@ -1,0 +1,12 @@
+.filled{
+    color:orange;
+}
+.empty{
+    color:black;
+    
+}
+.fa-clock{
+    background-color: rgba(216, 90, 23, 0.761);
+    color:white;
+    padding: 5px 10px;
+}
